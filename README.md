@@ -19,6 +19,7 @@ Si genera el siguiente mensaje **Refusing to make a filesystem here!** eso quier
 Los siguientes pasos son para solucionar dicho mensaje,
 
 **Paso 3:**
+
 Ya identificada la unidad se ejecuta el siguiente comando
 
 ```
