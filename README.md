@@ -16,7 +16,7 @@ $sudo umount /dev/sdb
 ```
 Si genera el siguiente mensaje **Refusing to make a filesystem here!** eso quiere decir que la salida de `fdisk` muestra que no hay partición en su dispositivo usb. 
 
-Los siguientes pasos son para dar solución al mensaje,
+Los siguientes pasos son para solucionar dicho mensaje,
 
 **Paso 3:**
 Ya identificada la unidad se ejecuta el siguiente comando
