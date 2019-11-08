@@ -1,4 +1,4 @@
-# Montar-dispositivo
+# Montar dispositivo
 
 Una vez finalizado el proceso de [Borrado seguro con la herramienta SHRED de Linux](https://github.com/IngriMV/Borrado_seguro_SHRED_Linux) se debe montar de nuevo la unidad.
 
@@ -14,7 +14,9 @@ $sudo fdisk -l
 ```
 $sudo umount /dev/sdb
 ```
-Si genera el siguiente mensaje **Refusing to make a filesystem here!** 
+Si genera el siguiente mensaje **Refusing to make a filesystem here!** eso quiere decir que la salida de `fdisk` muestra que no hay partición en su dispositivo usb. 
+
+Los siguientes pasos son para dar solución al mensaje,
 
 **Paso 3:**
 
