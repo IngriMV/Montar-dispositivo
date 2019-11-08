@@ -14,7 +14,7 @@ $sudo fdisk -l
 ```
 $sudo umount /dev/sdb
 ```
-Y genera el siguiente mensaje **Refusing to make a filesystem here!** 
+Si genera el siguiente mensaje **Refusing to make a filesystem here!** 
 
 **Paso 3:**
 
@@ -71,12 +71,7 @@ Hex code (type L to list all codes): L
  5  Extended        41  PPC PReP Boot   86  NTFS volume set da  Non-FS data    
  6  FAT16           42  SFS             87  NTFS volume set db  CP/M / CTOS / .
  7  HPFS/NTFS/exFAT 4d  QNX4.x          88  Linux plaintext de  Dell Utility   
- 8  AIX             4e  QNX4.x 2nd part 8e  Linux LVM       df  BootIt         
- 9  AIX bootable    4f  QNX4.x 3rd part 93  Amoeba          e1  DOS access     
- a  OS/2 Boot Manag 50  OnTrack DM      94  Amoeba BBT      e3  DOS R/O        
- b  W95 FAT32       51  OnTrack DM6 Aux 9f  BSD/OS          e4  SpeedStor      
- c  W95 FAT32 (LBA) 52  CP/M            a0  IBM Thinkpad hi ea  Rufus alignment
- e  W95 FAT16 (LBA) 53  OnTrack DM6 Aux a5  FreeBSD         eb  BeOS fs  
+ 8  AIX             4e  QNX4.x 2nd part 8e  Linux LVM       df  BootIt
   
 ```
 
