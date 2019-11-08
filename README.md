@@ -1,4 +1,4 @@
-# Montar dispositivo
+# Montar sistema de archivos a un dispositivo de almacenamiento mediante la terminal
 
 Una vez finalizado el proceso de [Borrado seguro con la herramienta SHRED de Linux](https://github.com/IngriMV/Borrado_seguro_SHRED_Linux) se debe montar de nuevo la unidad.
 
